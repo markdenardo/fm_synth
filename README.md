@@ -1,4 +1,4 @@
-<p>fm_synth<br>
+<p>fm_synth.md<br>
 Explanation:<br>
 sineWave function: Generates a sine wave for a given frequency and time.<br>
 writeWAV function: Writes the audio data to a WAV file with the correct format.<br>
