@@ -1,5 +1,5 @@
-<p>fm_synth.md<br>
-
+fm_synth.md<br>
+<p>
 Explanation:
 <ul>
 sineWave function: Generates a sine wave for a given frequency and time.<br>
