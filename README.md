@@ -7,7 +7,8 @@ main function: Generates the FM synthesis by modulating the frequency of a carri
 
 Compilation and Execution:
 
-<ul>Open CLion: Open the project in CLion.<br>
+<ul>Clone the GitHub project<br>
+Open CLion: Open the project in CLion.<br>
 Build the project: Click on the build button or run Build from the menu.<br>
 Run the project: Execute the program. It will generate a fm_synth.wav file in your project directory.</ul>
 
